@@ -5,7 +5,7 @@ These come from documentation, adafruit examples, and bits and bobs
 from all over the net.
 
 The code has been tested on a XIAO RP2350 but should work with other      
-XIAO boards with minimal modifications.
+XIAO boards with minimal or no modifications.
 
 ## Links:
 
