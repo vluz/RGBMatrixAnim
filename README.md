@@ -7,3 +7,9 @@ from all over the net.
 The code has been tested on a XIAO RP2350 but should work with other      
 XIAO boards with minimal modifications.
 
+## Links:
+
+https://wiki.seeedstudio.com/rgb_matrix_for_xiao/
+
+https://wiki.seeedstudio.com/xiao_rp2350_arduino/
+
